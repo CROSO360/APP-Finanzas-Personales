@@ -1,0 +1,26 @@
+Control de finanzas personales:
+Aplicacion de presupuesto y seguimiento de gastos
+
+> Michael Leonardo Vinces Andrade
+> Roberto Carlos Cobeña Cornejo
+> Cristian Jair Bonilla Moreira
+> Cristopher Aaron Tejena Chavez
+> Juan Diego Andrade Tubay
+
+
+Pasos a realizar:
+1. Crear proyecto de NestJS en blanco
+2. Crear una base de datos (Mongol/Postgresql)
+2.1. Crear tablas, entidades etc
+3. Conectar la base de datos al proyecto
+4. Realizar las diferentes operaciones
+
+Funcionalidades
+* Ingresar datos personales (Nombres, apellidos, direccion)
+* Ingresar fuentes salariales (trabajos)(Nombre del trabajo, salario, tiempo de contratacion, cargo)
+* Modificar datos personales
+* Modificar salarios
+* Eliminar trabajos
+* Buscar informacion del trabajo
+* Ingresar gastos segun el tipo de gasto(alimentos, salud, transporte, servicios basicos, otros)
+* Mostrar el total de gastos por su respectivo tipo
